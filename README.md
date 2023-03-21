@@ -114,3 +114,7 @@ The config google_doc_sheet starts from 1
 Run extact_ast.go for collecting test functions
 
 Then run bug2test.py for comparing the test coverage for bug function implementations
+
+## Questions and Bugs
+
+If there are any problems in reproducing our analysis tool, please do contact me via Github issues as the account will stay anonymous during the reviewing period. 
