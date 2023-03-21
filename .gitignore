@@ -1,0 +1,22 @@
+*.json
+App/
+tests/
+
+*.data
+*.log
+
+!config.json
+!google_api.json
+
+!commits_runc_filter.json
+!commits_containerd_filter.json
+
+Filtered-BAK/
+
+# Source_Code/
+
+BugFunctions
+
+*.out
+
+*test.py
